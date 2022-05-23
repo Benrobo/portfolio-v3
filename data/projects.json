@@ -1,18 +1,32 @@
 {
     "projects":[
         {
-            "title": "Some dummy title",
-            "imageUrl": "",
-            "project_url": "",
-            "description": "some basi project description",
+            "title": "BaayMax",
+            "imageUrl": "https://github.com/Benrobo/baaymax-cli/raw/master/readmeImg/cli.png?raw=true",
+            "project_url": "https://github.com/Benrobo/baaymax",
+            "description": "Generate developer portfolio site from your github profile.",
+            "tags": [ "react", "nodejs" ]
+        },
+        {
+            "title": "Babcock Ride",
+            "imageUrl": "https://raw.githubusercontent.com/Benrobo/babcock-uber/main/readmeImg/babcock-profile.png",
+            "project_url": "https://github.com/Benrobo/babcock-uber",
+            "description": "Get a ride quickly as possible using this app meant for the babcock university.",
             "tags": [ "react", "postgresql", "nodejs" ]
         },
         {
-            "title": "Some dummy title",
-            "imageUrl": "",
-            "project_url": "",
-            "description": "some basi project description",
+            "title": "E-Workflow",
+            "imageUrl": "https://raw.githubusercontent.com/Benrobo/e-workflow-client/main/readmeImg/dashboard.png",
+            "project_url": "https://github.com/Benrobo/e-workflow-client",
+            "description": "Automate document submission within a school.",
             "tags": [ "react", "postgresql", "nodejs" ]
+        },
+        {
+            "title": "Quickr",
+            "imageUrl": "https://raw.githubusercontent.com/Benrobo/quickr/main/readmeImg/quickr1.png",
+            "project_url": "https://github.com/Benrobo/quickr",
+            "description": "Generate unique resume / CV.",
+            "tags": [ "react", "nodejs" ]
         }
     ]
 }
