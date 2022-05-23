@@ -8,21 +8,21 @@ export default function DomHead({ pageName = "Home Page" }) {
             <title>{userInfo.github_username} Portfolio - {pageName} </title>
             {/* meta tags begins */}
             {/* Primary Meta Tags */}
-            <meta name="title" content="BaayMax — Generate a unique developer portfolio with just one click" />
-            <meta name="description" content="Generating of portfolio just got easier. Using BaayMax and a single command, you're on set." />
+            <meta name="title" content="Benrobo- Personal Portfolio." />
+            <meta name="description" content="Generated using BaayMax." />
             {/* Open Graph / Facebook */}
             <meta property="og:type" content="website" />
-            <meta property="og:url" content="https://github.com/benrobo/baaymax-cli/" />
-            <meta property="og:title" content="BaayMax — Generate a unique developer portfolio with just one click" />
+            <meta property="og:url" content="https://github.com/benrobo/portfolio-v3/" />
+            <meta property="og:title" content="Benrobo- Personal Portfolio" />
             <meta property="og:description" content="Generating of portfolio just got easier. Using BaayMax and a single command, you're on set." />
-            <meta property="og:image" content="https://github.com/Benrobo/baaymax-cli/raw/master/readmeImg/cli.png?raw=true" />
+            <meta property="og:image" content="https://github.com/Benrobo/baaymax-assets/blob/main/app.png?raw=true" />
 
             {/* <!-- Twitter --> */}
             <meta property="twitter:card" content="summary_large_image" />
             <meta property="twitter:url" content="https://metatags.io/" />
-            <meta property="twitter:title" content="BaayMax — Generate a unique developer portfolio with just one click" />
+            <meta property="twitter:title" content="Benrobo- Personal Portfolio" />
             <meta property="twitter:description" content="Generating of portfolio just got easier. Using BaayMax and a single command, you're on set." />
-            <meta property="twitter:image" content="https://github.com/Benrobo/baaymax-cli/raw/master/readmeImg/cli.png?raw=true" />
+            <meta property="twitter:image" content="https://github.com/Benrobo/baaymax-assets/blob/main/app.png?raw=true" />
 
             {/* meta tags end */}
             <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
