@@ -37,7 +37,7 @@
         },
          {
             "title": "Tymonial",
-            "imageUrl": "https://raw.githubusercontent.com/Benrobo/quickr/main/readmeImg/quickr1.png",
+            "imageUrl": "https://raw.githubusercontent.com/Benrobo/tymonial-app/main/github-img/formUI.png",
             "project_url": "https://github.com/Benrobo/tymonial-app",
             "description": "An easy way to collect users feedback into yout web app.",
             "tags": [ "react", "nodejs", "linode server" ]
