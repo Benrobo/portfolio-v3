@@ -27,6 +27,20 @@
             "project_url": "https://github.com/Benrobo/quickr",
             "description": "Generate unique resume / CV.",
             "tags": [ "react", "nodejs" ]
+        },
+        {
+            "title": "RayPal",
+            "imageUrl": "https://camo.githubusercontent.com/db234641b926872b7e4cd67a3daae83c4e937295922e4176feacf83b0d1975b8/68747470733a2f2f6368616c6c656e6765706f73742d73332d6368616c6c656e6765706f73742e6e6574646e612d73736c2e636f6d2f70686f746f732f70726f64756374696f6e2f736f6674776172655f70686f746f732f3030322f3033362f3130312f64617461732f67616c6c6572792e6a7067",
+            "project_url": "https://github.com/Benrobo/Rapyd-Payment-app",
+            "description": "Payment Infrastructure application powered by Rapyd API.",
+            "tags": [ "react", "nodejs", "rapyd api" ]
+        },
+         {
+            "title": "Tymonial",
+            "imageUrl": "https://raw.githubusercontent.com/Benrobo/quickr/main/readmeImg/quickr1.png",
+            "project_url": "https://github.com/Benrobo/tymonial-app",
+            "description": "An easy way to collect users feedback into yout web app.",
+            "tags": [ "react", "nodejs", "linode server" ]
         }
     ]
 }
